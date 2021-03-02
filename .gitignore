@@ -1,0 +1,10 @@
+.DS_Store
+
+.vscode
+__pycache__
+
+.installed.cfg
+*.egg
+.pytest_cache
+pipfile
+pipfile.lock
